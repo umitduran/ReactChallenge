@@ -1,18 +1,23 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import 'antd/dist/antd.css';
+import { Layout } from "antd";
+import Home from '../../../components/Home/Home';
 
-const Content = props => {
+const { Content } = Layout;
+const ContentLayout = props => {
     const { children } = props;
 
     return (
-        <main>
-            {children}
-        </main>
+        <Content>
+            <Home/>
+
+        </Content>
     );
 };
 
-Content.propTypes = {
+ContentLayout.propTypes = {
     children: PropTypes.element.isRequired
 }
 
-export default Content
+export default ContentLayout

@@ -1,25 +1,26 @@
 import React, { Component } from 'react';
-import Home from './Home/Home';
-
+import 'antd/dist/antd.css';
+import { Layout } from "antd";
 // Layout Components
 import Header from '../shared/components/layout/Header';
 import Content from '../shared/components/layout/Content';
 import Footer from '../shared/components/layout/Footer';
+import Sider from '../shared/components/layout/Sider';
 
-    import './App.css';
 
 class App extends Component {
     render() {
         return (
-            <div className="App">
-                <Header title='Welcome to Hobby Project'/>
+            <Layout style={{ minHeight: '100vh' }}>
+                <Sider/>
+                <Layout>
+                    <Header/>
 
-                <Content>
-                    <Home />
-                </Content>
+                    <Content/>
 
-                <Footer/>
-            </div>
+                    <Footer/>
+                </Layout>
+            </Layout>
         );
     }
 }

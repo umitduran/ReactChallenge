@@ -1,26 +1,20 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import logo from '../../images/logo.svg';
+import 'antd/dist/antd.css';
+import { Layout } from 'antd';
 
-const Header = props => {
-    const {
-        title = 'Welcome to Hobby Project',
-        url = 'http://localhost:3000'
-    } = props;
+const { Header } = Layout;
+
+const HeaderLayout = props => {
 
     return (
-        <header className="App-header">
-            <a href={url}>
-                <img src={logo} className="App-logo" alt="logo" />
-            </a>
-            <h1 className="App-title">{title}</h1>
-        </header>
+        <Header>
+            Header
+        </Header>
     )
 };
 
-Header.propTypes = {
-    title: PropTypes.string.isRequired,
-    url: PropTypes.string,
+HeaderLayout.propTypes = {
 }
 
-export default Header;
+export default HeaderLayout;

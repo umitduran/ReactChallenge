@@ -20,7 +20,7 @@ export default class Home extends Component<{}, State> {
     render() {
         const position = [51.505, 0.09];
         return (
-            <Map center={position} zoom={11} style={{ height: "600px",width:'1600px' }}>
+            <Map center={position} zoom={11} style={{ height: "600px",width:'1800px' }}>
                 <TileLayer
                     attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
