@@ -9,7 +9,6 @@ const HeaderLayout = props => {
 
     return (
         <Header>
-            Header
         </Header>
     )
 };

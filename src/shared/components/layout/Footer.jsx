@@ -6,7 +6,6 @@ const { Footer } = Layout;
 
 const FooterLayout = () => (
     <Footer>
-        Footer
     </Footer>
 
 );
