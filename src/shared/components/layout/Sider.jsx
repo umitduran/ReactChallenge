@@ -9,7 +9,6 @@ const SiderLayout = props => {
 
     return (
         <Sider collapsible={true}>
-            Sider
         </Sider>
     );
 };
