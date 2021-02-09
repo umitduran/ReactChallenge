@@ -19,15 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81253bbf-665c-40cd-b93a-b037b5f5dd4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shared/sampleData/realworld-10000.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shared/sampleData/vlx-sample.js" afterDir="false" />
+    <list default="true" id="d3ae932f-9fc5-42ec-83c3-525df41be8a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +113,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81253bbf-665c-40cd-b93a-b037b5f5dd4f" name="Default Changelist" comment="" />
+      <changelist id="d3ae932f-9fc5-42ec-83c3-525df41be8a7" name="Default Changelist" comment="" />
       <created>1598188742598</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -131,6 +127,8 @@
       <workItem from="1601450416116" duration="696000" />
       <workItem from="1602850308054" duration="347000" />
       <workItem from="1609246547803" duration="5079000" />
+      <workItem from="1609922192006" duration="765000" />
+      <workItem from="1609935965503" duration="2978000" />
     </task>
     <servers />
   </component>
@@ -147,6 +145,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="665" y="-732" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609246883659">
