@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import 'antd/dist/antd.css';
 import { Layout } from "antd";
 import Home from '../../../components/Home/Home';
+import UploadPoi from "../../../components/UploadPoi";
 
 const { Content } = Layout;
 const ContentLayout = props => {
@@ -10,14 +11,15 @@ const ContentLayout = props => {
 
     return (
         <Content>
-            <Home/>
+            {/*<Home/>*/}
+                <UploadPoi/>
 
         </Content>
     );
 };
 
 ContentLayout.propTypes = {
-    children: PropTypes.element.isRequired
+    children: PropTypes.element
 }
 
 export default ContentLayout
