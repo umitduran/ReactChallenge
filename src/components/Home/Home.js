@@ -7,8 +7,6 @@ import {addressPoints} from "../../shared/sampleData/realworld-10000";
 import { brandLocGridMap } from "../../shared/sampleData/vlx-sample";
 import HeatmapLayer from "react-leaflet-heatmap-layer/lib/HeatmapLayer";
 import geoHash from 'ngeohash';
-import Highcharts from 'highcharts'
-import HighchartsReact from 'highcharts-react-official'
 import { Heatmap } from '@ant-design/charts';
 
 type State = {

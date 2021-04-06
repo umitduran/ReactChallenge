@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3ae932f-9fc5-42ec-83c3-525df41be8a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/UploadPoi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shared/components/UploadDrawer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shared/components/layout/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/shared/components/layout/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +39,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1i8xP17dsWzTpN5MRPWBtikCJsv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -129,6 +131,9 @@
       <workItem from="1609246547803" duration="5079000" />
       <workItem from="1609922192006" duration="765000" />
       <workItem from="1609935965503" duration="2978000" />
+      <workItem from="1612860960411" duration="2777000" />
+      <workItem from="1613982732180" duration="1240000" />
+      <workItem from="1617693101696" duration="13405000" />
     </task>
     <servers />
   </component>
@@ -146,31 +151,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="665" y="-732" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609246883659">
-      <screen x="0" y="-1057" width="1920" height="1032" />
-    </state>
-    <state x="665" y="-732" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877/0.-1057.1920.1032@0.-1057.1920.1032" timestamp="1609246883659" />
-    <state width="1792" height="288" key="GridCell.Tab.0.bottom" timestamp="1601447682611">
-      <screen x="0" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1792" height="288" key="GridCell.Tab.0.bottom/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1601447682611" />
-    <state width="1792" height="288" key="GridCell.Tab.0.center" timestamp="1601447682611">
-      <screen x="0" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1792" height="288" key="GridCell.Tab.0.center/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1601447682611" />
-    <state width="1792" height="288" key="GridCell.Tab.0.left" timestamp="1601447682610">
-      <screen x="0" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1792" height="288" key="GridCell.Tab.0.left/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1601447682610" />
-    <state width="1792" height="288" key="GridCell.Tab.0.right" timestamp="1601447682611">
-      <screen x="0" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1792" height="288" key="GridCell.Tab.0.right/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1601447682611" />
-    <state x="430" y="-892" key="SettingsEditor" timestamp="1601449922745">
-      <screen x="0" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="430" y="-892" key="SettingsEditor/0.23.1440.877/0.-1057.1920.1057@0.-1057.1920.1057" timestamp="1601449922745" />
   </component>
 </project>
